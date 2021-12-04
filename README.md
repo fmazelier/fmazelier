@@ -47,8 +47,3 @@
 
 [![Linkedin](https://img.shields.io/badge/-Florian%20Mazelier-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/fmazelier/)  
 
-### Stats 📈
-
-<img align="left" width="47%" height="350px" src="https://github-readme-stats.vercel.app/api?username=fmazelier&hide=stars&count_private=true&show_icons=true&theme=blueberry" />
-
-<img align="left" width="47%" height="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmazelier&layout=compact&count_private=true&theme=blueberry" />  
