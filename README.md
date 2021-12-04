@@ -1,5 +1,9 @@
 <p align="center">
-<h1>👋🏼, I am Florian. Nice to see you here!</h2> 
+  <a href="https://www.florianmazelier.dev/" target="_blank" rel="noopener">
+    <img src="https://www.florianmazelier.dev/images/illustrations/illu.min.svg" width="800" alt="Florian Mazelier's website identity">
+  </a>
+
+  <h1>👋🏼, I am Florian. Nice to see you here!</h2> 
 </p>
 
   I discovered web development since 2018 and I have been passionate about it ever since.
