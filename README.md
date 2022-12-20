@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://www.florianmazelier.dev/" target="_blank" rel="noopener">
-    <img src="https://www.florianmazelier.dev/images/illustrations/illu.min.svg" width="800" alt="Florian Mazelier's website identity">
+  <a href="https://florianmazelier.dev/" target="_blank">
+    <img src="https://florianmazelier.dev/images/illustrations/illu.min.svg" width="800" alt="Florian Mazelier's website identity">
   </a>
 
   <h1>👋🏼, I am Florian. Nice to see you here!</h2> 
