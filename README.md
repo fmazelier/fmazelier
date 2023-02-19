@@ -118,3 +118,10 @@ I am also proud to have acquired self-taught skills to configure and administer 
 ![Playstation](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)
 ![Switch](https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
 ![Nintendo 3DS](https://img.shields.io/badge/Nintendo_3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white)
+
+<hr>
+
+Sources :
+
+* [Badges](https://shields.io/category/build)
+* [Typing effect](https://github.com/DenverCoder1/readme-typing-svg)
