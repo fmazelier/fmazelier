@@ -125,3 +125,8 @@ Sources :
 
 * [Badges](https://shields.io/category/build)
 * [Typing effect](https://github.com/DenverCoder1/readme-typing-svg)
+
+<!--
+ badges list : https://dev.to/envoy_/150-badges-for-github-pnk#education
+https://badgen.net/
+-->
