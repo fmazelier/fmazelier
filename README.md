@@ -53,6 +53,8 @@ I am also proud to have acquired self-taught skills to configure and administer 
 
 ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.JS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Koa](https://img.shields.io/badge/Koa-FFFFFF?style=for-the-badge)
+![Fastify](https://img.shields.io/badge/fastify-202020?style=for-the-badge)
 
 
 ### ⚡️ Databases
