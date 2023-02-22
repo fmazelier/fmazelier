@@ -29,7 +29,7 @@ ___
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3200&pause=750&color=C9D1D9&width=480&lines=%F0%9F%91%8B%F0%9F%8F%BC%2C+I'm+Florian.;Nice+to+see+you+here!;I'm+a+JavaScript+web+developer.)](https://git.io/typing-svg)
 
-I am a web developer passionate about the world of JavaScript
+I'm a web developer passionate about the world of JavaScript
 
 Since I discovered this field in 2018, I am constantly learning new skills to improve my work
 
